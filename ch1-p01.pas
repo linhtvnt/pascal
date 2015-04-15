@@ -2,5 +2,5 @@
 program ch1_p01;
 begin
     writeln('Hello world!');
-    readln;
+    readln;  (* Dung man hinh de xem ket qua *)
 end.  
